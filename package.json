@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/pcicman/fwt",
   "dependencies": {
-    "fwp": "pcicman/fwp"
+    "fwp": "pcicman/fwp#v0.0.1"
   }
 }
