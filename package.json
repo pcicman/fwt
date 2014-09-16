@@ -1,0 +1,22 @@
+{
+  "name": "fwt",
+  "version": "0.0.0",
+  "description": "dep test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pcicman/fwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcicman/fwt/issues"
+  },
+  "homepage": "https://github.com/pcicman/fwt",
+  "dependencies": {
+    "fwp": "pcicman/fwp"
+  }
+}
